@@ -1,0 +1,6 @@
+{
+  "venvPath": "../odoo",
+  "venv": "venv",
+  "extraPaths": ["../odoo"]
+}
+
